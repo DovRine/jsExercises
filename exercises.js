@@ -2,7 +2,7 @@
  * DATA ACCESS
  */
 var str1 = "hello";
-//set str1 to the number of characters the variable "str1" has
+//set o1 to the number of characters the variable "str1" has
 
 console.assert(o1 === 5, "o1");
 
